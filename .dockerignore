@@ -1,0 +1,12 @@
+**/node_modules
+**/dist
+.env
+.env.*
+.dockerignore
+.docker-compose.yml
+.gitignore
+config/
+jest.*
+README.*
+.editorconfig
+node_modules
