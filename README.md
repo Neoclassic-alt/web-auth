@@ -4,11 +4,11 @@
 
 Приложение создано в виде Docker-образа. Установка:
 
-`docker build .`
+`docker build -t web-auth .`
 
 ## Запуск
 
-`docker run -d -p 8080:5173 <image-id>`
+`docker run -d -p 8080:5173 web-auth`
 
 Зайти: https://localhost:8080
 
